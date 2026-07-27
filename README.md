@@ -93,19 +93,11 @@ ITエンジニアを目指して、Webアプリケーション開発を中心に
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&locale=ja)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&locale=ja)
-
----
-
 ## 📫 Contact
 
-* GitHub：[@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+* GitHub：[@YOUR_GITHUB_USERNAME](https://github.com/Onemoretime-plz)
 * Portfolio：準備中
-* Email：YOUR_EMAIL_ADDRESS
+* Email：otakeyuta1009@gmail.com
 
 ---
 
