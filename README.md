@@ -95,7 +95,7 @@ ITエンジニアを目指して、Webアプリケーション開発を中心に
 
 ## 📫 Contact
 
-* GitHub：[@YOUR_GITHUB_USERNAME](https://github.com/Onemoretime-plz)
+* GitHub：[@Onemoretime-plz](https://github.com/Onemoretime-plz)
 * Portfolio：準備中
 * Email：otakeyuta1009@gmail.com
 
