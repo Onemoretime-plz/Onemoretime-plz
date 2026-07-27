@@ -1,4 +1,4 @@
-# はじめまして、大岳優太です 👋
+# はじめまして、Otakeです 👋
 
 ITエンジニアを目指して、Webアプリケーション開発を中心に学習しています。
 
@@ -97,7 +97,7 @@ ITエンジニアを目指して、Webアプリケーション開発を中心に
 
 * GitHub：[@Onemoretime-plz](https://github.com/Onemoretime-plz)
 * Portfolio：準備中
-* Email：otakeyuta1009@gmail.com
+* Email：
 
 ---
 
