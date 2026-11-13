@@ -97,7 +97,7 @@ ITエンジニアを目指して、Webアプリケーション開発を中心に
 
 * GitHub：[@Onemoretime-plz](https://github.com/Onemoretime-plz)
 * Portfolio：準備中
-* Email：
+* Email：準備中
 
 ---
 
