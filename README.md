@@ -93,6 +93,24 @@ ITエンジニアを目指して、Webアプリケーション開発を中心に
 
 ---
 
+### [BoatStrategySimulator](https://github.com/Onemoretime-plz/BoatStrategySimulator)
+
+過去のボートレース結果をもとに、ユーザーが登録した購入戦略を検証するJava製CUIシミュレーターです。
+
+**主な機能**
+
+* 戦略の登録・一覧表示・検索・編集・削除
+* CSVファイルからのレース結果の読み込み
+* 複数券種（単勝・複勝・2連単・3連単・2連複・3連複）への対応
+* 通常買い・フォーメーション・BOXの買い目生成
+* 的中率・投資額・払戻額・損益・回収率の集計
+
+**使用技術**
+
+`Java` `Eclipse` `CSV` `Git` `GitHub`
+
+---
+
 ## 📫 Contact
 
 * GitHub：[@Onemoretime-plz](https://github.com/Onemoretime-plz)
