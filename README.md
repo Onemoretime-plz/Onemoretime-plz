@@ -57,7 +57,7 @@ ITエンジニアを目指して、Webアプリケーション開発を中心に
 
 ## 🚀 Projects
 
-### Lesson Stock
+### [Lesson Stock](https://github.com/Onemoretime-plz/lessonstock)
 
 小学校の授業アイデアや学習指導案を共有・検索できるWebアプリケーションです。
 
@@ -75,7 +75,7 @@ ITエンジニアを目指して、Webアプリケーション開発を中心に
 
 ---
 
-### ポケモン管理・対戦支援ツール
+### [ポケモン管理・対戦支援ツール](https://github.com/Onemoretime-plz/pokemon-manager)
 
 ポケモンの型やパーティーを登録し、管理・共有するためのWebアプリケーションです。
 
